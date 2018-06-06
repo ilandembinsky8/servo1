@@ -120,7 +120,7 @@ namespace ConsoleApp25
             {
                 ta[i] = new team();
             }
-            ta[0].setName("team1");
+            ta[0].setName("team3");
             ta[1].setName("team2");
             ma[0] = new manager("team1", "Dani", "Cohen","Audi");
             ma[1] = new manager("team2", "Dina", "Levi","Renault");
